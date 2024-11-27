@@ -24,6 +24,10 @@ body:not(.hideLyrics.hideList) .playerContainer {
 .SimLRC {
     --align: center !important;
 }
+
+.lyrics, .list {
+    height: 90%;
+}
 `;
 
 includeStyleElement(styles);
