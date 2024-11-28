@@ -2,7 +2,7 @@
   "packageId": "lyricsMode",
   "extName": "[第三方]歌词纯享模式",
   "uiName": "[第三方]歌词纯享模式",
-  "version": ".0.1",
+  "version": "0.0.3",
   "entries": [
     "function.js",
     "ui_css.js",
