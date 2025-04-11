@@ -1,5 +1,7 @@
 适用于SimMusic的歌词相关扩展
 
+**该扩展已合并到[播放页面扩展](https://github.com/PYLXU/SMEx_playerPage/)**
+
 ![{B075EF9F-E29D-47FF-83BF-8739217D7D30}](https://github.com/user-attachments/assets/4825f1ff-d98f-43be-8cb3-77dd89652fc9)
 
 
